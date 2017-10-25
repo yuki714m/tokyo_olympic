@@ -1,0 +1,48 @@
+  html{
+    /*width: 1260px;*/
+    /*margin: auto;*/
+    background-color: #D8D8D8;
+  }
+  body{
+    margin: 10px auto 10px auto;
+    width: 800px;
+    background-color: white;
+  }
+  h1{
+    font-size: 50px;
+    text-align: center;
+  }
+  #contents{
+    font-size: 50px;
+    color: red;
+  }
+  #TimeRemaining{
+    font-size: 50px;
+    color: green;
+  }
+  .body_one{
+    border: solid 2px #A4A4A4;
+    padding: 0px 60px 0px 60px;
+  }
+  .frame{
+    border: solid 2px #A4A4A4;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  .form{
+   margin: 10px;
+  }
+  .tokyo{
+    color: blue;
+  }
+  .img{
+    text-align: center;
+  }
+  .flame_name{
+    color: green;
+  }
+  .flame_comment{
+    background-color: #D8D8D8;
+    margin: 10px;
+    padding: 5px;
+  }
